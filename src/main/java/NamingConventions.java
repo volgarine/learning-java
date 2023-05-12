@@ -1,29 +1,30 @@
 public class NamingConventions {
 
 // Packages → com.CompanyName
-
-//Classes → NomeDaClass
-
+// Classes → NomeDaClass
 // Methods → methodName (camelCase)
-
 // Variables → variableName (camelCase)
-
 // Constants → CONSTANT_NAME
-
 // Objects → nameObject (camelCase)
 
-    /*camelCase (pattern for naming variables)
+   /* In programming, naming convention refers to a set of rules and guidelines that are used to give meaningful and consistent
+   names to variables, methods, classes, and other programming elements. Adhering to a naming convention makes code more readable
+   and understandable by other programmers, and can also help to prevent naming conflicts.
 
-    declare variable using method: first letter lower case and other letters first case
+    Some common naming conventions in Java are:
 
-    The CamelCase naming convention helps make code more readable and easier to understand,
-    making it easier for developers to distinguish between different identifiers and understand
-    the meaning of variables and methods. Furthermore, it is a common practice in the programming industry,
-    making code easier to share and collaborate between development team members.
+    * camelCase: the first letter of the first word is in lowercase and the first letter of subsequent words is capitalized.
+    For example: firstName, accountBalance, customerAddress.
 
-    it is common to use CamelCase to name variables and methods, such as
-    'fullName', 'bankBalance', 'calculateMedia', etc.
-    In other programming languages, such as Python, it is common to use a similar style called snake_case,
-    where words are separated by an underscore (_), such as 'full_name', 'bank_balance', 'calculate_average', etc.
-*/
+    * PascalCase: the first letter of each word is capitalized. For example: CustomerAddress, AccountBalance, FirstName.
+
+    * snake_case: all letters are in lowercase, and words are separated by underscores. For example: first_name, account_balance, customer_address.
+
+    * Upper Case: all letters are in uppercase. This is typically used for constants. For example: MAX_SIZE, PI.
+
+    In addition to these conventions, it's important to choose names that are descriptive and meaningful. Variable names should
+    reflect their purpose, and method and class names should describe what they do.
+
+    By following a consistent naming convention and using descriptive names, you can make your code more readable and maintainable,
+    and make it easier for other developers to understand and work with your code.*/
 }

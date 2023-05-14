@@ -3,7 +3,7 @@
 
 import java.util.Random;
 
-public class Random_Numbers {
+public class RandomNumbers {
     public static void main(String[] args) {
 
         // Example 1

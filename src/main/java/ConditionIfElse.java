@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Condition_IfElse
+public class ConditionIfElse
 {
     //a condition to check when a person is of legal age OR not and display a message
     public static void main(String[] args) {

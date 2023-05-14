@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Condition_Switch {
+public class ConditionSwitch {
     public static void main(String[] args) {
         System.out.println("Welcome to JAVA Coffee House! \n Choose your drink:");
         System.out.println("(1) Americano");

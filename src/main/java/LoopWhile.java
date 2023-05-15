@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class WhileLoop {
+public class LoopWhile {
     public static void main(String[] args) {
         // Example 1: loop to print the numbers from 1 to 5
         System.out.println("Example 1:");

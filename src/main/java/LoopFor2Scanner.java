@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ForLoop2Scanner {
+public class LoopFor2Scanner {
     public static void main(String[] args) {
 
         //Enter 5 numbers (using for) and print their sum

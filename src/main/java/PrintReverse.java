@@ -8,8 +8,7 @@ public class PrintReverse {
         String name = scanner.nextLine();
         String reverseName = "";
 
-        for (int i = name.length();
-             i >= 1; i--) {
+        for (int i = name.length(); i >= 1; i--) {
             String caract = name.substring(i - 1, i);
             reverseName = reverseName + caract;
         }

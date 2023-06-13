@@ -30,7 +30,7 @@ public class ArrayList1 {
         // Access elements in the ArrayList
         System.out.println("First fruit (0): " + fruits.get(0));
         System.out.println("Second fruit (1): " + fruits.get(1));
-        System.out.println("Second fruit (2): " + fruits.get(2));
+        System.out.println("Third fruit (2): " + fruits.get(2));
 
         // Remove an element from the ArrayList
         fruits.remove(2);
